@@ -3,10 +3,10 @@ import time
 import pywhatkit
 from datetime import datetime
 
-arduino = serial.Serial("COM9", 9600)
+arduino = serial.Serial("COM9", 9600) //Precisa ajustar para a porta compativel
 time.sleep(2)
 
-destinatario = "+5511999910716"
+destinatario = "+5511999999999" //Numero de alguem especifico
 alerta_enviado = False
 
 while True:
