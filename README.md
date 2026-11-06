@@ -3,6 +3,8 @@
 ### Sobre:
 Projeto de NFC feito durante o segundo semestre do curso de Engenharia da Computação na feira de projetos que ocorreu dia 05/11/26 na faculdade **Universidade São Francisco (USF) Campus Bragança Paulista**. Varios grupos participaram, incluindo outros cursos voltados a Engenharia. 
 
+Também fizemos um site para o nosso projeto que da para acessa-lo apertando [aqui](https://famontegro.github.io/Site-emp-nfc/) e o repositório do GitHub acessando [aqui](https://github.com/Famontegro/Site-emp-nfc)
+
 ---
 
 ### Participantes do Projeto:
