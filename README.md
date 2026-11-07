@@ -35,7 +35,7 @@ Colocamos todos os componentes em uma maquete feita com papel paraná, nela tem 
 ---
 
 ### Imagens do nosso projeto:
-![Grupo](Imagens de NFC/WhatsApp Image 2026-11-05 at 21.38.08.jpeg)
+![Grupo](<Imagens de NFC/WhatsApp Image 2026-11-05 at 21.38.08.jpeg>)
 
 ---
 
